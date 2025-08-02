@@ -30,6 +30,8 @@ const config = {
   organizationName: 'yahia317', // Usually your GitHub org/user name.
   projectName: 'CTF-Cheat-Sheet', // Usually your repo name.
 
+  deploymentBranch: "gh-pages",
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
