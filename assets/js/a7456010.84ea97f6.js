@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_ctf_doc=self.webpackChunkmy_ctf_doc||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
